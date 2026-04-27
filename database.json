@@ -30,7 +30,21 @@
   "encounters": {
     "001": {
       "name": "Peshi's Tent",
-      "desc": "Sells every item"
+      "desc": "Sells every Item",
+      "type": "Shop",
+      "tier": "1"
+    },
+    "002": {
+      "name": "Unrested Soldier",
+      "desc": "3 XP | 2 Gold",
+      "type": "Duel",
+      "tier": "2"
+    },
+    "003": {
+      "name": "Open a Chest",
+      "desc": "Get an Item",
+      "type": "Event",
+      "tier": "1"
     }
   }
 }
