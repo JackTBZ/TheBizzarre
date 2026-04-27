@@ -1,3 +1,28 @@
 {
-  "test": "balls"
+  "001": {
+    "name": "Knife",
+    "size": "Small",
+    "cooldown": "3.0",
+    "type": "Weapon",
+    "subtype": "",
+    "ability_text": "Deal 5 damage"
+  },
+
+  "002": {
+    "name": "Katana",
+    "size": "Medium",
+    "cooldown": "3.0",
+    "type": "Weapon",
+    "subtype": "",
+    "ability_text": "Deal 10 damage"
+  },
+
+  "003": {
+    "name": "Tower Shield",
+    "size": "Large",
+    "cooldown": "6.0",
+    "type": "Shield",
+    "subtype": "Shield",
+    "ability_text": "Gain 50 Shield"
+  }
 }
