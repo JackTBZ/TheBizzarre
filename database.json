@@ -1,46 +1,55 @@
 {
   "items": {
-    "001": {
+    "item001": {
       "name": "Knife",
       "size": "Small",
       "cooldown": "3.0",
       "type": "Weapon",
       "subtype": "",
-      "ability_text": "Deal 5 damage"
+      "ability_text": "Deal 5 damage",
+
+      "starting_tier": "1",
+      "value_override": {}
     },
 
-    "002": {
+    "item002": {
       "name": "Katana",
       "size": "Medium",
       "cooldown": "3.0",
       "type": "Weapon",
       "subtype": "",
-      "ability_text": "Deal 10 damage"
+      "ability_text": "Deal 10 damage",
+
+      "starting_tier": "1",
+      "value_override": {}
     },
 
-    "003": {
+    "item003": {
       "name": "Tower Shield",
       "size": "Large",
       "cooldown": "6.0",
       "type": "Shield",
       "subtype": "Shield",
-      "ability_text": "Gain 50 Shield"
+      "ability_text": "Gain 50 Shield",
+
+      "starting_tier": "2",
+      "value_override": {}
     }
   },
   "encounters": {
-    "001": {
+    "encounter001": {
       "name": "Peshi's Tent",
       "desc": "Sells every Item",
       "type": "Shop",
       "tier": "1"
     },
-    "002": {
+    "encounter002": {
       "name": "Unrested Soldier",
       "desc": "3 XP | 2 Gold",
       "type": "Duel",
       "tier": "2"
     },
-    "003": {
+    "encounter003": {
       "name": "Open a Chest",
       "desc": "Get an Item",
       "type": "Event",
