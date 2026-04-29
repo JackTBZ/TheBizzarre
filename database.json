@@ -9,7 +9,16 @@
       "ability_text": "Deal 5 damage",
 
       "starting_tier": "1",
-      "value_override": {}
+      "value_override": {},
+
+      "starting_stats": {
+        "damage": "5",
+        "heal": "0",
+        "shield": "0",
+        "burn": "0",
+        "poison": "0",
+        "regen": "0"
+      }
     },
 
     "item002": {
@@ -21,7 +30,16 @@
       "ability_text": "Deal 10 damage",
 
       "starting_tier": "1",
-      "value_override": {}
+      "value_override": {},
+
+      "starting_stats": {
+        "damage": "10",
+        "heal": "0",
+        "shield": "0",
+        "burn": "0",
+        "poison": "0",
+        "regen": "0"
+      }
     },
 
     "item003": {
@@ -33,7 +51,16 @@
       "ability_text": "Gain 50 Shield",
 
       "starting_tier": "2",
-      "value_override": {}
+      "value_override": {},
+
+      "starting_stats": {
+        "damage": "0",
+        "heal": "0",
+        "shield": "50",
+        "burn": "0",
+        "poison": "0",
+        "regen": "0"
+      }
     }
   },
   "encounters": {
