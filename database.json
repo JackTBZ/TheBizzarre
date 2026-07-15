@@ -13,11 +13,11 @@
 
       "starting_stats": {
         "damage": "5",
-        "heal": "0",
-        "shield": "0",
-        "burn": "0",
-        "poison": "0",
-        "regen": "0"
+        "heal": "nil",
+        "shield": "nil",
+        "burn": "nil",
+        "poison": "nil",
+        "regen": "nil"
       }
     },
 
@@ -34,11 +34,11 @@
 
       "starting_stats": {
         "damage": "10",
-        "heal": "0",
-        "shield": "0",
-        "burn": "0",
-        "poison": "0",
-        "regen": "0"
+        "heal": "nil",
+        "shield": "nil",
+        "burn": "nil",
+        "poison": "nil",
+        "regen": "nil"
       }
     },
 
@@ -54,12 +54,12 @@
       "value_override": {},
 
       "starting_stats": {
-        "damage": "0",
-        "heal": "0",
+        "damage": "nil",
+        "heal": "nil",
         "shield": "50",
-        "burn": "0",
-        "poison": "0",
-        "regen": "0"
+        "burn": "nil",
+        "poison": "nil",
+        "regen": "nil"
       }
     }
   },
